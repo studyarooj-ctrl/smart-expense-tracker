@@ -1,4 +1,5 @@
 ### ROADMAP OF PROJECT
+
 - Phase 1: Planning & Setup
 - Phase 2: Python Foundations
 - Phase 3: HTML Structure

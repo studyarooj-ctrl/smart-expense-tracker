@@ -1,0 +1,3216 @@
+{
+	"tldrawFileFormatVersion": 1,
+	"schema": {
+		"schemaVersion": 2,
+		"sequences": {
+			"com.tldraw.store": 5,
+			"com.tldraw.asset": 1,
+			"com.tldraw.camera": 1,
+			"com.tldraw.document": 2,
+			"com.tldraw.instance": 26,
+			"com.tldraw.instance_page_state": 5,
+			"com.tldraw.page": 1,
+			"com.tldraw.instance_presence": 6,
+			"com.tldraw.pointer": 1,
+			"com.tldraw.shape": 4,
+			"com.tldraw.user": 1,
+			"com.tldraw.asset.image": 6,
+			"com.tldraw.asset.video": 5,
+			"com.tldraw.asset.bookmark": 2,
+			"com.tldraw.shape.group": 0,
+			"com.tldraw.shape.text": 4,
+			"com.tldraw.shape.bookmark": 2,
+			"com.tldraw.shape.draw": 5,
+			"com.tldraw.shape.geo": 12,
+			"com.tldraw.shape.note": 13,
+			"com.tldraw.shape.line": 5,
+			"com.tldraw.shape.frame": 1,
+			"com.tldraw.shape.arrow": 8,
+			"com.tldraw.shape.highlight": 4,
+			"com.tldraw.shape.embed": 4,
+			"com.tldraw.shape.image": 5,
+			"com.tldraw.shape.video": 4,
+			"com.tldraw.binding.arrow": 1
+		}
+	},
+	"records": [
+		{
+			"x": 549.1022205725096,
+			"y": 501.92703257249275,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:i2RKiXiCkNbMkwizzaoPw",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 217,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "'name':'arooj',\r"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "'amount':800,\r"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "'age':24}"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aCj0X",
+			"typeName": "shape"
+		},
+		{
+			"x": 0,
+			"y": 0,
+			"lastActivityTimestamp": 0,
+			"meta": {},
+			"id": "pointer:pointer",
+			"typeName": "pointer"
+		},
+		{
+			"x": 615,
+			"y": 132,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:iY053PY5dyAAQFPlxYTPj",
+			"type": "highlight",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAwAC8AMAAAADAALwAvAAAALwAvAC8AAAAvAAAALwAAADAAAAAwAAAALwAAADAAAAAwAAAAMIAvADAALwAwgAAAMIAvADAAAAAvAC8AMAAAADCAAAAvAAAAMAAAADCAAAAwAAAAMIAAADAAAAAwAAAAMAAAAC8AAAAvAAAALwAAAC8AAAAvAAAALwAvAC8AAAAvAAAAMAAAADCAAAAvAAAAMAAAADCAAAAvAAAAMAAAADAAAAAvAA8ALwAAADAAAAAvAAAAAAAPAAAADw=",
+						"dim": 2
+					}
+				],
+				"color": "black",
+				"size": "m",
+				"isComplete": true,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "aAfDz",
+			"typeName": "shape"
+		},
+		{
+			"x": 419.27777777777817,
+			"y": 1647.685243341657,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:DGL9w0g-2GiKBjtIe5jn1",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 936.34375,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "mere question"
+								}
+							]
+						},
+						{
+							"type": "orderedList",
+							"attrs": {
+								"dir": "auto",
+								"start": 1,
+								"type": null
+							},
+							"content": [
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "mojy argument kia hotay ehi confirm nhi"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "or function name ke variable jeise naming rules hotay hei ke nhi"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "or global variable tou function ke bahir bntay hei tou kia ye function ke andr accessible hotay hei"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:bCLnc4KdtYFUmjUcEfOeI",
+			"index": "a5DzJ",
+			"typeName": "shape"
+		},
+		{
+			"x": 250,
+			"y": 84,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:Y8g-PJdSG9d3DbhQNtpr9",
+			"type": "highlight",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAwAAAAMAAAADAAAAAvAAAAMAAAADCADwAwAAAAMAAAADAADwAwgAAAMAAAADFADwAxAAAAMYAAADHADwAxAAAAMUAAADGAAAAxAAAAMIAAADAAAAAwAAAALwAAADCAAAAvAAAALwAAAC8AAAAwAAAALwAAADAAAAAvAAAAMAAAADCAAAAwgAAAMIAvADAAAAAwgAAAMAAAADAAAAAwgAAAMAAAAC8AAAAwAAAALwAAAC8AAAAvAAAALwAAAC8AAAAwAAAALwAAADAAAAAvAAAALwAAAC8AAAAwAAAAMIAAAC8AAAAwAAAALwAAAC8AAAAwAC8ALwAvAC8AAAAvAAAALwAvAC8AAAAvAAA",
+						"dim": 2
+					}
+				],
+				"color": "black",
+				"size": "m",
+				"isComplete": true,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "a5Uo1",
+			"typeName": "shape"
+		},
+		{
+			"x": 536,
+			"y": 80,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:Vdup27GgUamvdh3psJg2A",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 369.4375,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "list"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "syntax"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "v=[item1,item2,item3]"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "rules of syntax"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "1.square brakets"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "2.after value putting comma ,"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a8xrz",
+			"typeName": "shape"
+		},
+		{
+			"x": 418.16666666666686,
+			"y": 678.8457008467781,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:7wrd0RgacD9P3T7Y1G98Y",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 1154.234375,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "block 1 : what is function"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "highlight"
+										}
+									],
+									"text": "its a piece of specific code that works same"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "block 2 : why we need functions"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "highlight"
+										}
+									],
+									"text": "jub kisi project ke liye same logic baar baar repeat ho tou"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "highlight"
+										}
+									],
+									"text": " baar baar code likhne se better hei ke eik dafa us same logic"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "highlight"
+										}
+									],
+									"text": " ka code likh kr usko function create krdein or jub zarrorat ho"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "highlight"
+										}
+									],
+									"text": " tou usay use krlein"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "block 3; how functions work"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "highlight"
+										}
+									],
+									"text": "input➡function➡output"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "block4: function syntax"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "highlight"
+										}
+									],
+									"text": "def function_name(parameter1, parameter2):"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "highlight"
+										}
+									],
+									"text": "    # kaam"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "highlight"
+										}
+									],
+									"text": "    return result"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "block 5 : function call krna"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "usko usky naam se bulao or usko eik variable mei store kro"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "block 6: what is parameters"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "functions ke input hotay hein"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "block 7 : what is return keyword in function"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "ye keyword result deita hei"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "block 8; what is scope"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "batata hei ke konsa varaible kahan tuk accessible hei"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "local variable : function ke andr esko hum function ke bahir use nhi kr skty"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "global varialbe"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "block 9: common mistakes in function"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": ". function ko call na krna"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": ".return keyword use na krna phir function kabhi output nhi"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": " deita"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": ". agr parameters 2 hein function mei or ap 3 input de rhy ho tub bhi error aye"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "ayegs"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": ". local variable ko bahir access krna"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "block10: how it is connected in our project"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "arguments"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "result hota hei function ka "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "orderedList",
+							"attrs": {
+								"dir": "auto",
+								"start": 1,
+								"type": null
+							},
+							"content": [
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "function is like a block of same code that we can use later "
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "parameters are the input of function or arguments function ka putput hota hei"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "return keyword humein result deita hei function ka "
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "local variable function ke ander bnta hei or function ke andr hi use ho skta hei hum bahir access nhi kr skty error ayega"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "agr function 2 parameters leita hei or ap 1 input dein tou error ayegamer"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:bCLnc4KdtYFUmjUcEfOeI",
+			"index": "a4DYr",
+			"typeName": "shape"
+		},
+		{
+			"x": 6.546190666375878,
+			"y": 1211.318772815515,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:gyVZSXNUg7pTDyt_5AUh0",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 824.375,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "# conceptual answer "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "1. list is mutable or tuple is immutable"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "2. dictionary mei key eik label hei or dosri uski value hei."
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "800 return karega"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "3. list of multiple dictionaries"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "transaction[1]['category']"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "mean list ki 1 index walay item mei se category ki value find krna"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aQiL6",
+			"typeName": "shape"
+		},
+		{
+			"x": 434.80052007975235,
+			"y": -459.63063538035584,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:rvcRcECDAXkuJ1DZnmQs0",
+			"type": "arrow",
+			"props": {
+				"kind": "arc",
+				"elbowMidPoint": 0.5,
+				"dash": "draw",
+				"size": "m",
+				"fill": "none",
+				"color": "black",
+				"labelColor": "black",
+				"bend": 0,
+				"start": {
+					"x": 0,
+					"y": 0
+				},
+				"end": {
+					"x": -199.03031251541927,
+					"y": 152.79094698153392
+				},
+				"arrowheadStart": "none",
+				"arrowheadEnd": "arrow",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				},
+				"labelPosition": 0.5,
+				"font": "draw",
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "aNI5X",
+			"typeName": "shape"
+		},
+		{
+			"x": -19.080301516218242,
+			"y": 783.967857410508,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:4WH_Ybw6K4IE92PwmbBJa",
+			"type": "text",
+			"props": {
+				"color": "blue",
+				"size": "m",
+				"w": 793,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "v_name = { ‘name’:’sara’ , 34:3.13 , ‘category’:’food’}"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aIIzJ",
+			"typeName": "shape"
+		},
+		{
+			"x": -33.92093852894254,
+			"y": 622.779630793142,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:Ty5qlKo-hcCxtxYZ_8L63",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 444.671875,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "dictionary"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "esky ander label or values hoti hei "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "label:value"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "syntax"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aHYqM",
+			"typeName": "shape"
+		},
+		{
+			"x": 569.4978022871572,
+			"y": -451.58900659185406,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:YgzrBB9St3LhpF2rR-7Oa",
+			"type": "arrow",
+			"props": {
+				"kind": "arc",
+				"elbowMidPoint": 0.5,
+				"dash": "draw",
+				"size": "m",
+				"fill": "none",
+				"color": "black",
+				"labelColor": "black",
+				"bend": 0,
+				"start": {
+					"x": 0,
+					"y": 0
+				},
+				"end": {
+					"x": 82.42669508214328,
+					"y": 152.79094698153392
+				},
+				"arrowheadStart": "none",
+				"arrowheadEnd": "arrow",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				},
+				"labelPosition": 0.5,
+				"font": "draw",
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "aP3FX",
+			"typeName": "shape"
+		},
+		{
+			"x": -1299.1203604412394,
+			"y": -208.66764044869672,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:898eKAvz3O646MbPAFKYW",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 734.109375,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Topic: Collections"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "1. List"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "- Mutable hoti hai"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "- [] se banti hai"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "- Index 0 se start hota hai"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "- append() → item add"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "- remove() → item delete"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "- list[index] = new_value → replace"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "2. Tuple"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "- Immutable hota hai"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "- () se banti hai"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "- Fixed data ke liye use hota hai"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "3. Dictionary"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "- Key-value pairs"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "- {} se banti hai"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "- dict[\"key\"] → value access"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "- dict[\"key\"] = value → add ya replace"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "- Existing key → replace"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "- New key → add"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "4. Nested data"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "- List ke andar dictionaries"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "- Access: list[index][\"key\"]"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "- Loop: for item in list:"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "- Har item ek dictionary hota hai"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "5. Important patterns"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "- Total: total = 0, phir total = total + value"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "- Final result loop ke bahar print hota hai"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "- Names aur amounts alag loops mein print kar sakte hain"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "6. Mistakes"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "- Variable name mein space nahi"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "- .lower() ke baad () zaroori"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "- Invalid index → IndexError"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "- Ghalat key → nayi key ban jati hai, replace nahi hoti"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aSWOX",
+			"typeName": "shape"
+		},
+		{
+			"x": 2163.4116475121405,
+			"y": 750.0951767547035,
+			"z": 0.2439779005200437,
+			"meta": {},
+			"id": "camera:page:page",
+			"typeName": "camera"
+		},
+		{
+			"x": 107,
+			"y": 70,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:L4m-lqyKQ9TGmsd455ad3",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 307.109375,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "collections:"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "variable.name=value"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "variable=multiple values"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a1h1Q",
+			"typeName": "shape"
+		},
+		{
+			"x": 551.5000000000002,
+			"y": 436.94445138507416,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:wdZ9Pi9B7BWc0ocT8M_ze",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 384.640625,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "parameters"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "arguments"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "local varible or global variable"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "syntax of function"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:bCLnc4KdtYFUmjUcEfOeI",
+			"index": "a38dX",
+			"typeName": "shape"
+		},
+		{
+			"meta": {},
+			"id": "binding:QfcGhEDNQoy7OvNTtoa99",
+			"type": "arrow",
+			"fromId": "shape:Meh0ok2j_ZwzNyLv55hH8",
+			"toId": "shape:L4m-lqyKQ9TGmsd455ad3",
+			"props": {
+				"isPrecise": false,
+				"isExact": false,
+				"normalizedAnchor": {
+					"x": 0.5,
+					"y": 0.5
+				},
+				"snap": "center",
+				"terminal": "start"
+			},
+			"typeName": "binding"
+		},
+		{
+			"editingShapeId": "shape:DGL9w0g-2GiKBjtIe5jn1",
+			"croppingShapeId": null,
+			"selectedShapeIds": [
+				"shape:DGL9w0g-2GiKBjtIe5jn1"
+			],
+			"hoveredShapeId": "shape:DGL9w0g-2GiKBjtIe5jn1",
+			"erasingShapeIds": [],
+			"hintingShapeIds": [],
+			"focusedGroupId": null,
+			"meta": {},
+			"id": "instance_page_state:page:bCLnc4KdtYFUmjUcEfOeI",
+			"pageId": "page:bCLnc4KdtYFUmjUcEfOeI",
+			"typeName": "instance_page_state"
+		},
+		{
+			"editingShapeId": null,
+			"croppingShapeId": null,
+			"selectedShapeIds": [],
+			"hoveredShapeId": null,
+			"erasingShapeIds": [],
+			"hintingShapeIds": [],
+			"focusedGroupId": null,
+			"meta": {},
+			"id": "instance_page_state:page:page",
+			"pageId": "page:page",
+			"typeName": "instance_page_state"
+		},
+		{
+			"x": 809.2970735576654,
+			"y": 95.86205347865291,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:P8b-uxhgiX-7DkDjTKKxC",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAANRAAAvUYAAGZFZj0MSGY9DURmPcBGZkEMSFw9wEZmPWZFAABkRWY9ZkEAAA1EAAC9RmY9DUgAAL1GAAC6SAAADEhmvWZFAABmRQAACkQAAA1EAABmRWY9vUZmQQ1IZkG9RmY9DUgNRL1GCkTARg1EwEZmQRJKZj1lSWZBwEZmPbhIXD0NSAAAZEVmPQ1EAABmQQAAZkFmPQAAZj1mvQAAAABmPWa9Zj1mvcBGAAAMSGa9uEgAAGZJAAAMSAAAwEYAAGZFAABkRQAAZkUAALhIAADARgAAZEUAAGZFAAANRAAADEgAAGZFAADARgAAZEUAAA1EAABmQWZBZkFmPQpEAAANRAAAZkUAAGRFZj3ARgAADURmPWRFAADARmY9DUhcPb1GZj26SAAAv0oAABJKAAASSgAADUgAAGRFAABmQQAAZkEAAGZBAABmPQAAZj0AAGY9Zr0AAGHBAABmwVw9DcRmPWbBAABmwQAACsQAAA3EAABmxQAADMgAAA3ICsS9xmbFwMZmxWbBCsRkxQ3EZsFmwWbBZsFmwWa9ZsEAAArEAABmxQAAZsUAALjIAABmxQAAZsUAAGTFAABmxQAADcQAAGTFAABmxQAADMgAAA3EAAANxGY9DcRmPQrEZkENxAAAZsFmPWa9AABmvWY9ZsEAAGa9AABcvQAAZsEAAGbBAABmwQAAZsEAAGbBAABcvWY9DcQAAA3EAABmwWY9ZsEAAArEAABmwVw9ZsUAAAzIAABmxQAAZsUAAGTFZj1mxQAADcRmPWTFAABmwQAADcQAAA3EAABmwQAAXL0AAGa9AABmvQAAZr0AAGa9AAANxAAAZr0AAGa9AABmvWY9YcEAAGbBAABmvQAAZr0AAGbBAABmwQAAZsEAAArEZr1mwWbBZsFcvWbBZsENxGa9YcFmwWbBAABmvWa9ZsFmvWa9AABmvQAAZr0AAGbBZj1hwWZBZsFmQQ3EZkFmwWRFZMUNRA3EZkUNxGFBZr0AAGa9Zj1mvQAAZr0AAGa9AABcvQAAZr1mvWbBAABmwQAAZsFcvWa9AABmvQAAZr1mvVy9AABmvQAAAABmvQAAZr1mvQAAAABmvWa9AAA=",
+						"dim": 2
+					}
+				],
+				"color": "light-blue",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "aFPbE",
+			"typeName": "shape"
+		},
+		{
+			"x": 611,
+			"y": 460.99999809265137,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:-2vNKrdfpHhkRRJICn1gF",
+			"type": "highlight",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAvAAAALwAAADCAAAAwAAAAMAAAAC8AAAAvAAAALwAAAC8AAAAvAAAALwAPAC8AAAAvAAAALwAAAC8AAAAwAAAAMAAAADCAAAAwgAAAMIAvADFALwAwAAAAMAAAAC8AAAAwAAAALwAAAC8AAAAvAAAALwAvADAAAAAvAAAALwAAAC8AAAAvAAAALwAPAC8AAAAvAA8ALwAAAC8AAA=",
+						"dim": 2
+					}
+				],
+				"color": "yellow",
+				"size": "m",
+				"isComplete": true,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "aDYD6",
+			"typeName": "shape"
+		},
+		{
+			"x": 614,
+			"y": 402.99999809265137,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:wNSaKxYvQ6MtQiTrgsI-h",
+			"type": "highlight",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAwAAAAMAAAAC8AAAAvAAAAMIAAAC8AAAAvAAAAMAAAADAAAAAvAAAALwAAADAAAAAvAAAALwAAAC8AAAAvAAAALwAAAC8AAAAvAAAALwAAADAAAAAvAC8AMAAvADAALwAvAAAAMAAwAC8AAAAwAAAAAAAvAC8AAAAAAC8ALwAAAC8AAAAvAAAALwAvAC8AAAAvAAAAMAAvAC8AMAAvAC8ALwAAAC8AAAAvAAAALwAAADAAAAAvAA8AAAAPAC8AAAAAAA8ALwAAAC8ADwAAAA8ALwAPAAAADwAvAAAAAAAPABAAAAAPAC8ADwAvAA8AAAAPADAAEAAAAA8ALwAPAAAAEAAAAAAALwAPAAAADwAAAA8AAAAPAAAADwAAAA8AAAAPAAAADwAAAA8ALwAPAAAADwAAAA8AAAAPAAAADwAAAA8AAAAPAAAAEAAAAA8AAAAPAAAADwAAABAAAAAPAC8ADwAAAA8AAAAPAAAADwAAABAAAAAAAC8ADwAAAA8AAAAPAAAADwAAAA8AAAAQAAAADwAAAA8AAAAPAAAAEIAAAA8ADwAPAAAADwAPAA8ADwAPAA8ADwAPAA8ADwAAAA8ADwAPAAAADwAPAAAAAAAPAA8AAA=",
+						"dim": 2
+					}
+				],
+				"color": "light-blue",
+				"size": "m",
+				"isComplete": true,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "aEkQ2",
+			"typeName": "shape"
+		},
+		{
+			"x": -20.429450335556794,
+			"y": 868.9642330288381,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:V765-CCX4VliKhBBAUrHx",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 332.203125,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "indexing nhi hoti "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": ".remove.append nhi hota"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "print(v_name[‘name’])"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "v_name[34]=’age’"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aJydA",
+			"typeName": "shape"
+		},
+		{
+			"x": 408,
+			"y": 70,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:-dlPulEeesb8ebDPcqLgp",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 114.5,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "functions"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:bCLnc4KdtYFUmjUcEfOeI",
+			"index": "a1Rfr",
+			"typeName": "shape"
+		},
+		{
+			"x": -647.0555555555559,
+			"y": -1243.858087380726,
+			"z": 0.9,
+			"meta": {},
+			"id": "camera:page:bCLnc4KdtYFUmjUcEfOeI",
+			"typeName": "camera"
+		},
+		{
+			"x": 144,
+			"y": 208,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:wVj38PKuDbMt9_7fQvOKo",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 230.28125,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "types of collection"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a32Jj",
+			"typeName": "shape"
+		},
+		{
+			"x": 146,
+			"y": 273,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:RQXxBaSOcnnfOjzuGG17c",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 181.609375,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "1.list"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "2.set"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "3.tuple"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "4.dictionary"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "5.nested  data"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a6dUw",
+			"typeName": "shape"
+		},
+		{
+			"meta": {},
+			"id": "binding:wfPHUQA2VzN03-9y-uZ1z",
+			"type": "arrow",
+			"fromId": "shape:9yMRMdfxxUTjaMoX6-7eK",
+			"toId": "shape:RQXxBaSOcnnfOjzuGG17c",
+			"props": {
+				"isPrecise": true,
+				"isExact": false,
+				"normalizedAnchor": {
+					"x": 0.3634173621268175,
+					"y": 0.1
+				},
+				"snap": "none",
+				"terminal": "end"
+			},
+			"typeName": "binding"
+		},
+		{
+			"name": "",
+			"color": "#F2555A",
+			"imageUrl": "",
+			"meta": {},
+			"id": "user:lGMRrUensyyXi2wOnad8z",
+			"typeName": "user"
+		},
+		{
+			"x": -876.9509763271313,
+			"y": -348.4194520636104,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:FhwfjPFnTujCOMhi8c3V6",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 340.515625,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "collection notes make by ai"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aTg1z",
+			"typeName": "shape"
+		},
+		{
+			"x": 121.17699732818267,
+			"y": -296.7876524131947,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:S2GhUSPedr217RpygEgkv",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 223.515625,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "link",
+											"attrs": {
+												"href": "https://www.perplexity.ai/search/14a538d5-830d-4242-aae2-5bfcca3ab092",
+												"target": "_blank",
+												"rel": "noopener noreferrer nofollow",
+												"class": null
+											}
+										}
+									],
+									"text": "perplexity lecture"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aKQ5I",
+			"typeName": "shape"
+		},
+		{
+			"x": 549,
+			"y": 284,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:s8mZRPKu79rJr1LSArIAs",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 490.609375,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "example"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "list_name=[‘lunch’,34,8.90,’sara’]"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "tuple"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "v=(item1,item2,item3)"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "rules"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "round brackets"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aBhKf",
+			"typeName": "shape"
+		},
+		{
+			"x": 371,
+			"y": 323,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:9yMRMdfxxUTjaMoX6-7eK",
+			"type": "arrow",
+			"props": {
+				"kind": "arc",
+				"elbowMidPoint": 0.5,
+				"dash": "draw",
+				"size": "m",
+				"fill": "none",
+				"color": "black",
+				"labelColor": "black",
+				"bend": 0,
+				"start": {
+					"x": 0,
+					"y": 0
+				},
+				"end": {
+					"x": -10,
+					"y": 0
+				},
+				"arrowheadStart": "none",
+				"arrowheadEnd": "none",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				},
+				"labelPosition": 0.5,
+				"font": "draw",
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "a7IkX",
+			"typeName": "shape"
+		},
+		{
+			"x": -1356.5026068256814,
+			"y": -258.24735060234457,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:en5F47w8WuoQ2T_h3dLlj",
+			"type": "geo",
+			"props": {
+				"w": 1168.1385871118525,
+				"h": 1192.7309784194706,
+				"geo": "rectangle",
+				"dash": "draw",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"flipX": false,
+				"flipY": false,
+				"color": "black",
+				"labelColor": "black",
+				"fill": "solid",
+				"size": "m",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aRjKI",
+			"typeName": "shape"
+		},
+		{
+			"x": 462.94622083950856,
+			"y": -487.7763361401121,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:i93dhpfmw-1dimfCPu0WW",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 165.671875,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "requirements"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aLaPA",
+			"typeName": "shape"
+		},
+		{
+			"x": 294,
+			"y": 90,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:Meh0ok2j_ZwzNyLv55hH8",
+			"type": "arrow",
+			"props": {
+				"kind": "arc",
+				"elbowMidPoint": 0.5,
+				"dash": "draw",
+				"size": "m",
+				"fill": "none",
+				"color": "black",
+				"labelColor": "black",
+				"bend": 0,
+				"start": {
+					"x": 0,
+					"y": 0
+				},
+				"end": {
+					"x": -61,
+					"y": -23
+				},
+				"arrowheadStart": "none",
+				"arrowheadEnd": "arrow",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				},
+				"labelPosition": 0.5,
+				"font": "draw",
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "a2Erf",
+			"typeName": "shape"
+		},
+		{
+			"x": 444.0231481481484,
+			"y": 118.0555624961853,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:naGindvx4XM7nj0WFjO49",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 323.3958333333335,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": false,
+				"scale": 1.0462962962962965,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "parts of functions"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": ". function keyword  "
+								},
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "highlight"
+										}
+									],
+									"text": "(def)"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": ". function name"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": ". function parameters (input deina)"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": ".return keyword for result"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:bCLnc4KdtYFUmjUcEfOeI",
+			"index": "a2gXI",
+			"typeName": "shape"
+		},
+		{
+			"x": 730,
+			"y": 188,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:Es-t-oM9En4BPI67BNIcL",
+			"type": "highlight",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAvAAAAMAAAADAADwAwAAAALwAAADAAAAAwgAAAMIAAADAAAAAxAAAAMQAAADFAAAAxAAAAMIAPADAAAAAwAA8AMAAAAC8ADwAvAAAALwAAAC8AAAAvAAAALwAAAC8AAAAvAAAALwAAADAAAAAwAAAAMAAAADAAAAAwgAAAMIAPADAAAAAwAA8AMAAAAC8AAAAwAAAAMIAAADEADwAwgAAAMQAAADCAAAAwgAAAMIAAAC8AAAAwAAAAMAAAADAAAAAwAAAAMIAAADAALwAwgC8AMAAAADAAAAAwAC8AMIAAAC8ALwAwAAAALwAvADAAAAAvAAAALwAAADCALwAvAC8AMAAAADAAAAAwAC8AMAAvADAAAAAwAAAAMAAvADAALwAvAC8ALwAAAC8AAAAvAAAALwAAAAAALwAvAAAALwAAAC8AAAAvAAAAMAAPAAAADwAvAAAALwAAAC8ADwAvAAAAMIAQgDAAAAAwABAALwAPADAADwAAAA8ALwAAAC8AAAAvAAAAMAAAAC8AAAAwAAAAMAAPAC8AAAAvAAAALwAAAC8AAAAwAAA",
+						"dim": 2
+					}
+				],
+				"color": "black",
+				"size": "m",
+				"isComplete": true,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "a9Rzk",
+			"typeName": "shape"
+		},
+		{
+			"meta": {},
+			"id": "page:page",
+			"name": "collections",
+			"index": "a1",
+			"typeName": "page"
+		},
+		{
+			"gridSize": 10,
+			"name": "",
+			"meta": {},
+			"id": "document:document",
+			"typeName": "document"
+		},
+		{
+			"followingUserId": null,
+			"opacityForNextShape": 1,
+			"stylesForNextShape": {
+				"tldraw:geo": "rectangle",
+				"tldraw:color": "black",
+				"tldraw:size": "s",
+				"tldraw:textAlign": "start"
+			},
+			"brush": null,
+			"scribbles": [],
+			"cursor": {
+				"type": "default",
+				"rotation": 0
+			},
+			"isFocusMode": false,
+			"exportBackground": true,
+			"isDebugMode": false,
+			"isToolLocked": false,
+			"screenBounds": {
+				"x": 0,
+				"y": 0,
+				"w": 625,
+				"h": 613
+			},
+			"insets": [
+				false,
+				false,
+				true,
+				false
+			],
+			"zoomBrush": null,
+			"isGridMode": false,
+			"isPenMode": false,
+			"chatMessage": "",
+			"isChatting": false,
+			"highlightedUserIds": [],
+			"isFocused": true,
+			"devicePixelRatio": 1,
+			"isCoarsePointer": false,
+			"isHoveringCanvas": true,
+			"openMenus": [],
+			"isChangingStyle": false,
+			"isReadonly": false,
+			"meta": {},
+			"duplicateProps": null,
+			"cameraState": "idle",
+			"id": "instance:instance",
+			"currentPageId": "page:bCLnc4KdtYFUmjUcEfOeI",
+			"typeName": "instance"
+		},
+		{
+			"meta": {},
+			"id": "page:bCLnc4KdtYFUmjUcEfOeI",
+			"name": "functions",
+			"index": "a25fX",
+			"typeName": "page"
+		},
+		{
+			"meta": {},
+			"id": "binding:U5eLC9VIeH2lH3ofj_jE0",
+			"type": "arrow",
+			"fromId": "shape:Meh0ok2j_ZwzNyLv55hH8",
+			"toId": "shape:L4m-lqyKQ9TGmsd455ad3",
+			"props": {
+				"isPrecise": true,
+				"isExact": false,
+				"normalizedAnchor": {
+					"x": 0.4395828033579242,
+					"y": 0.21875
+				},
+				"snap": "none",
+				"terminal": "end"
+			},
+			"typeName": "binding"
+		},
+		{
+			"x": 387,
+			"y": 225,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:UXGbUSWuQNKvprTvO7t8g",
+			"type": "highlight",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAwADAAMIAvADCALwAxQC8AMUAAADGAAAAxQAAAMYAAADEAAAAxQA8AMUAQADEAAAAxQBAAMUAPADFADwAwAA8AMAAAAC8AAAAwAAAALwAAAC8AAAAvAAAALwAAAC8AAAAwAAAAMAAAADCADyAyQA8AMYAPADEAAAAxQBAAMUAPADFADwAxAA8AMYAPADEADwAwgAAAMIAAADCAAAAwAAAAMAAAADAAAAAwgAAAMUAvADEAAAAxQC8AMQAAADFAAAAwgAAAMQAAADCAAAAwgAAAMIAvADCAAAAwgAAAMIAAADAALwAwADAALwAAADCALwAvAC8ALwAvAC8AMAAvAAAALwAvAC8AAAAAAC8ALwAAAAAALwAAAC8ALwAAAAAALwAvAC8ALwAAAAAALwAvAAAALwAvAC8AAAAvAC8ALwAvAC8AAAAvAC8ALwAvAC8ALwAvADAALwAAAC8AAAAwAAAAMAAAAC8AAAAvAAAALwAAAC8AAAAvAAAALwAPAC8AAAAvAAAAAAAPADAAAAAAABAAMAAPADAAEAAwABCAMAAPAC8AEAAvABAALwAQAAAAEAAwABCAAAAQgAAAEAAAAA8AAAAPAA8AAAAQAAAAEIAAABAAMIARADFAEUAxgBEAMUAQADEAEIAvABAALwAPAC8AEAAAABCAAAAQAAAADwAAABCAAAAPAA8AEIAPABCAAAAQgAAAEIAAABEAAAARAA8AEQAQABFADwARABCAEUAPABGAEAARAA8AEQAPABCADwAQgA8ADwAAABAAAAAQAAAAEAAAABAAAAAQgAAAEIAAABAAAAAQAAAAEAAAABAAAAAQAAAAEIAPABCAEAAQgAAAEIAPABEAAAAQgA8AEIAAABAAAAAQgAAAEUAvABCAAAAQgC8AEIAvABAAAAAQAC8AEAAAABAALwAPADAAEAAAAAAALwAAADCAAAAwgC8AMUAwgDCAMUAxQDAAMIAxAC8AMAAvAC8AAAAvAAAAMAAAADAAAAAvAA8AMAAPAC8ADwAwAAAALwAPAC8AAAAwAA8AMAAAAC8AAAAvAAAAMAAPADAADwAwAAAAMAAPADAADwAwAAAALwAAADAAAAAwAA8AMAAAADAAAAAwAAAAMAAAAC8AAAAwAAAALwAAAC8AAAAvAAAALwAAAC8AAAAvAAAAMAAAAC8AAAAvAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAALwAAADAAAAAwAAAALwAAAC8AAAAwgAAALwAAADAAAAAvAAAAMAAAADAAAAAwgAAALwAAADAAAA=",
+						"dim": 2
+					}
+				],
+				"color": "black",
+				"size": "m",
+				"isComplete": true,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "a4jWU",
+			"typeName": "shape"
+		},
+		{
+			"x": 1089.9200279800884,
+			"y": 255.2513999926673,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:UBNDyU7CiRncVMadu1gTb",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 489.578125,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "difference"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "in mutability"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "list is changeable"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "or tuple is not"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": ".append "
+								},
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "list_name.append(34)"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": ".remove    "
+								},
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "list_name.remove(‘lunch’)"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "indexing]    "
+								},
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "list_name[0]"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "list_name[1]=45"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aGAof",
+			"typeName": "shape"
+		},
+		{
+			"x": 573.5186166814082,
+			"y": -280.7043948361911,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:xMtN7DXX9Vs3nxo4iDFUI",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 215.40625,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "link",
+											"attrs": {
+												"href": "https://github.com/studyarooj-ctrl/smart-expense-tracker",
+												"target": "_blank",
+												"rel": "noopener noreferrer nofollow",
+												"class": null
+											}
+										}
+									],
+									"text": "github repository"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aOEiM",
+			"typeName": "shape"
+		}
+	]
+}
